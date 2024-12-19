@@ -9,6 +9,8 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+../backend/.venv_v0/
+../backend/pyvenv.cfg
 
 # testing
 /coverage
